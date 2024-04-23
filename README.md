@@ -1,0 +1,1 @@
+# ANPR-with-OpenCV-and-EasyOCR
